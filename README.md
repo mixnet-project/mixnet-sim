@@ -128,7 +128,7 @@ done
 
 The simulation results will be stored in the `logs/` directory with separate folders for each configuration.
 
-**Quick Testing**: For faster turnaround times during development, you can run single-stage tests. See the [mixnet_scripts documentation](https://github.com/mixnet-project/mixnet-htsim/tree/main/mixnet_scripts) for more details.
+**Quick Testing**: For faster turnaround times during development, you can run single-stage tests. See the [mixnet_scripts](https://github.com/mixnet-project/mixnet-htsim/tree/main/mixnet_scripts) for more details.
 
 ## Configuration Parameters
 
