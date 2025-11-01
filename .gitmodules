@@ -1,0 +1,6 @@
+[submodule "mixnet-htsim"]
+	path = mixnet-htsim
+	url = https://github.com/mixnet-project/mixnet-htsim.git
+[submodule "mixnet-flexflow"]
+	path = mixnet-flexflow
+	url = https://github.com/mixnet-project/mixnet-flexflow.git
