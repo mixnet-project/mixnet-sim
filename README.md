@@ -68,7 +68,7 @@ done
 
 This will generate `.fbuf` files in the `results` directory (e.g., `mixtral8x22B_dp2_tp8_pp8_ep8_8.fbuf`).
 
-**Pre-generated Task Graphs**: For your convenience, we provide pre-generated task graph files for the Mixtral-8x22B model in the [Onedrive Link](https://1drv.ms/f/c/e53fc5b825c479a9/EmNMc-aekbFPq0PGvzASJtIBtysORTnPJySwkzCy_5W-fQ?e=yTlZQI).
+**Pre-generated Task Graphs**: For your convenience, we provide pre-generated task graph files for the Mixtral-8x22B model in the [Google Drive Link](https://drive.google.com/drive/folders/1hChT-tVYJwBSCAC_hTm3x99JLcnl3vRk?usp=sharing).
 
 **Other Models**: To generate task graphs for other MoE models, modify the corresponding parameters in the above script. For example, see the [Mixtral-8x7B configuration](https://huggingface.co/mistralai/Mixtral-8x7B-v0.1) for reference.
 
